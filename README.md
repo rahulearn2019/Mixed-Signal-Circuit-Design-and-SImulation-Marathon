@@ -6,11 +6,11 @@ edge computing, IoT applications etc. we need to look for alternative techniques
 
 ## Reference Circuit Diagram
 ![WhatsApp Image 2022-09-28 at 23 29 54](https://user-images.githubusercontent.com/50217106/194724678-3c4e42d0-8754-498e-bb03-97789fe0c4a1.jpeg)
-
+Fig1. 8TSRAM cell
 ![WhatsApp Image 2022-09-28 at 21 59 56](https://user-images.githubusercontent.com/50217106/194724684-1cf04866-94d1-413f-a08f-7c6fc0bc19e0.jpeg)
-
+Fig 2. Timing analysis
 ![WhatsApp Image 2022-09-28 at 21 28 35](https://user-images.githubusercontent.com/50217106/194724687-e951218d-5f55-4a83-912a-f4140e5f5634.jpeg)
-
+Fig 3. Overall design
 
 ## Circuit Diagram in Esim
 ![Screenshot 2022-10-08 214221](https://user-images.githubusercontent.com/50217106/194720051-3d5bb197-2679-4b34-a8b7-349546a19881.png)
