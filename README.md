@@ -145,4 +145,5 @@ plot v(q1) v(q2)+6 v(nor)+12 v(rwl)+18 v(logic)+24 v(sel)+30
 
 
 ## Ngspice Plots
+![Screenshot 2022-10-08 212959](https://user-images.githubusercontent.com/50217106/194720163-5b158bfd-675d-4006-af46-697bf8060b00.png)
 
