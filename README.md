@@ -6,17 +6,14 @@ edge computing, IoT applications etc. we need to look for alternative techniques
 
 ## Reference Circuit Diagram
 ![WhatsApp Image 2022-09-28 at 23 29 54](https://user-images.githubusercontent.com/50217106/194724678-3c4e42d0-8754-498e-bb03-97789fe0c4a1.jpeg)
-
 Fig1. 8TSRAM cell
 
 
 ![WhatsApp Image 2022-09-28 at 21 59 56](https://user-images.githubusercontent.com/50217106/194724684-1cf04866-94d1-413f-a08f-7c6fc0bc19e0.jpeg)
-
 Fig 2. Timing analysis
 
 
 ![WhatsApp Image 2022-09-28 at 21 28 35](https://user-images.githubusercontent.com/50217106/194724687-e951218d-5f55-4a83-912a-f4140e5f5634.jpeg)
-
 Fig 3. Overall design
 
 ## Circuit Diagram in Esim
@@ -143,19 +140,16 @@ U18  SEL plot_v1
 ## Ngspice Plots
 
 ![Screenshot 2022-10-08 212959](https://user-images.githubusercontent.com/50217106/194720163-5b158bfd-675d-4006-af46-697bf8060b00.png)
-
 The logic operation starts after the Read word line is enabled. It is shown by the white line that runs vertically throught the plot. SInce input to MUX is both the Logic NOR and Logic OR, variation in select line results in different outputs(logic operations NOR and OR)
 
 
 ![Screenshot 2022-10-08 233425](https://user-images.githubusercontent.com/50217106/194721800-69e27837-f007-437a-b5d2-720b678f1fb9.png)
-
 Precharging of read bit line
 
 
 
 
 ![Screenshot 2022-10-08 233410](https://user-images.githubusercontent.com/50217106/194721790-e741a020-7d4e-4db1-9a8a-324948b58455.png) 
-
 Mux select line variation
 
 
