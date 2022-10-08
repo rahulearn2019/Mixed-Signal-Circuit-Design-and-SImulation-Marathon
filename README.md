@@ -184,13 +184,13 @@ The logic operation starts after the Read word line is enabled. It is shown by t
  
  Fig3. Output Logic
  
- Fig4. 
+ Fig4. NOR capacitor voltage variation
  
- Fig5.8TSRAM Cell1 written with 1
+ Fig5. 8TSRAM Cell1 written with 1
  
- Fig6.8TSRAM Cell2 wrritten with 
+ Fig6. 8TSRAM Cell2 wrritten with 
  
- Fig7.
+ Fig7. 
  
  Fig8.
 ## Steps to run Ngveri model
