@@ -1,0 +1,9 @@
+* Subcircuit rahul_inv
+.subckt rahul_inv net-_sc1-pad2_ net-_sc1-pad1_ 
+* /home/tiw.rahul45/esim-2.3/library/subcircuitlibrary/rahul_inv/rahul_inv.cir
+v1 net-_sc1-pad3_ gnd  dc 1.8
+xsc2 net-_sc1-pad1_ net-_sc1-pad2_ gnd gnd sky130_fd_pr__nfet_01v8
+xsc1 net-_sc1-pad1_ net-_sc1-pad2_ net-_sc1-pad3_ net-_sc1-pad3_ sky130_fd_pr__pfet_01v8
+* Control Statements
+
+.ends rahul_inv
