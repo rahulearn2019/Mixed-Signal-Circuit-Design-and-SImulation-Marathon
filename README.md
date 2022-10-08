@@ -10,7 +10,7 @@ edge computing, IoT applications etc. we need to look for alternative techniques
 
 ## Operation
 8TSRAM cells are written with values either 0 or 1. The value stored is then fed to the read circuitry of 8TSRAM cells(Gate of the nfets)
-The RBL(Read Bit line) capacitor is precharged. Both 8TSRAM cells are written with 0 or 1, which is equivalent to providing input to a logic GATE. After the values are written, a read bit line enable mosfet switches on. This allows the precharged capacitor to discharge via any of the two nfets if their gate potential is high( gate potential high means that 8TSRAM cell has logic 1 written to it). This makes the precahrged capacitor potential mimic a logic value corresponding to a NOR operation. 
+The RBL(Read Bit line) capacitor is precharged. Both 8TSRAM cells are written with 0 or 1, which is equivalent to providing input to a logic GATE. After the values are written, a read bit line enable mosfet switches on. This happens together with a read word line being enabled. This allows the precharged capacitor to discharge via any of the two nfets if their gate potential is high( gate potential high means that 8TSRAM cell has logic 1 written to it). This makes the precahrged capacitor potential mimic a logic value corresponding to a NOR operation. 
 This NOR output from capacitor is input to a CMOS inverter to generate an OR operation.
 The verilog code of MUX gets input Data[1:0]. When Sel(select line) is 1 the output from the analog port generating logic operation OR is chosen. When Sel is 0 the output from the analog port generating NOR is chosen. 
 
