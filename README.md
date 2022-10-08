@@ -142,4 +142,7 @@ print alli > plot_data_i.txt
 plot v(q1) v(q2)+6 v(nor)+12 v(rwl)+18 v(logic)+24 v(sel)+30
 .endc
 .end
-###STeps to run generate Ngveri Model
+
+
+## Ngspice Plots
+
