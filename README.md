@@ -214,7 +214,10 @@ The below plots are for the case where bith 8TSRAM cells are written with 1.
 8.  Generate simulation
 
 
- 
+## Conclusion
+The above project is a demosntration of PIM with SRAM cells. Different device research is going on to support PIM like memristors and work on near memory computing is also being done. The project can be scaled to implement algorithms entirely using SRAM cells. NAND and AND operations have been skipped as it requires further analysis and schematic implemntation.
+Drawback of PIM using SRAM cells is the large area the cells take.
+
 ## Acknowledgements
 
 1. FOSSEE, IIT Bombay
