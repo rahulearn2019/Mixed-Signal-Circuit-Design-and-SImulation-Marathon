@@ -193,7 +193,7 @@ The logic operation starts after the Read word line is enabled. It is shown by t
  
  Fig7. Read Word Line
  
- Fig8. Read But Line precharge enable
+ Fig8. Read But Line precharge enable(PMOS switch)
 ## Steps to run Ngveri model
 1.   Open eSim
 2.   Run NgVeri-Makerchip
