@@ -147,10 +147,10 @@ U18  SEL plot_v1
 
 
 ![Screenshot 2022-10-08 233530](https://user-images.githubusercontent.com/50217106/194721882-9bd196d7-add7-4e4a-8d00-374285aa63cf.png)
-
+Cell1 written with 1
 
 ![Screenshot 2022-10-08 233538](https://user-images.githubusercontent.com/50217106/194721884-002eddc2-fe0e-451c-8e4d-f9b7e8c997f4.png)
-
+Cell2 wrritten with 2
 
 ![Screenshot 2022-10-08 233459](https://user-images.githubusercontent.com/50217106/194721889-672470c1-ff71-470e-b5cf-3da94f56a341.png)
 
