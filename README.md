@@ -144,7 +144,7 @@ The logic operation starts after the Read word line is enabled. It is shown by t
 
 
   ![Screenshot 2022-10-08 233425](https://user-images.githubusercontent.com/50217106/194721800-69e27837-f007-437a-b5d2-720b678f1fb9.png)
-                                 Precharging of read bit line
+                                 
 
 
 
@@ -163,12 +163,12 @@ The logic operation starts after the Read word line is enabled. It is shown by t
 
 
   ![Screenshot 2022-10-08 233530](https://user-images.githubusercontent.com/50217106/194721882-9bd196d7-add7-4e4a-8d00-374285aa63cf.png)
-                                     8TSRAM Cell1 written with 1
+                                    
 
 
 
   ![Screenshot 2022-10-08 233538](https://user-images.githubusercontent.com/50217106/194721884-002eddc2-fe0e-451c-8e4d-f9b7e8c997f4.png)
-                                      8TSRAM Cell2 wrritten with 
+                                      
 
 
 
@@ -176,6 +176,14 @@ The logic operation starts after the Read word line is enabled. It is shown by t
 
 ![Screenshot 2022-10-08 233437](https://user-images.githubusercontent.com/50217106/194721898-3127f68e-570f-4a6b-81be-a5d4c5f0737a.png)
 
+Fig 1. 
+Fig 2.Precharging of read bit line
+Fig 3.Mux select line variation
+Fig 4.
+Fig 5.8TSRAM Cell1 written with 1
+Fig 6.8TSRAM Cell2 wrritten with 
+Fig 7.
+Fig 8.
 ## Steps to run Ngveri model
 1.   Open eSim
 2.   Run NgVeri-Makerchip
