@@ -6,6 +6,7 @@ edge computing, IoT applications etc. we need to look for alternative techniques
 
 
 ## Circuit Diagram in Esim
+![Screenshot 2022-10-08 214221](https://user-images.githubusercontent.com/50217106/194720051-3d5bb197-2679-4b34-a8b7-349546a19881.png)
 
 
 ## Verilog code
