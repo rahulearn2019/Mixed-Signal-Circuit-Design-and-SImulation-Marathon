@@ -144,38 +144,39 @@ The logic operation starts after the Read word line is enabled. It is shown by t
 
 
   ![Screenshot 2022-10-08 233425](https://user-images.githubusercontent.com/50217106/194721800-69e27837-f007-437a-b5d2-720b678f1fb9.png)
-                                 
+                           Fig1       
 
 
 
 
   ![Screenshot 2022-10-08 233410](https://user-images.githubusercontent.com/50217106/194721790-e741a020-7d4e-4db1-9a8a-324948b58455.png) 
-                                 
+                           Fig2    
 
 
   ![Screenshot 2022-10-08 233359](https://user-images.githubusercontent.com/50217106/194721778-05ead638-2aba-4ee7-b0ec-9816c7181469.png)
-
+                           Fig3
 
 
   ![Screenshot 2022-10-08 233516](https://user-images.githubusercontent.com/50217106/194721875-1ac6464a-beaf-4978-abed-3f01bd24a860.png)
-
+                           Fig4
 
 
 
   ![Screenshot 2022-10-08 233530](https://user-images.githubusercontent.com/50217106/194721882-9bd196d7-add7-4e4a-8d00-374285aa63cf.png)
-                                    
+                           Fig5        
 
 
 
   ![Screenshot 2022-10-08 233538](https://user-images.githubusercontent.com/50217106/194721884-002eddc2-fe0e-451c-8e4d-f9b7e8c997f4.png)
-                                      
+                           Fig6            
 
 
 
 ![Screenshot 2022-10-08 233459](https://user-images.githubusercontent.com/50217106/194721889-672470c1-ff71-470e-b5cf-3da94f56a341.png)
+			Fig7
 
 ![Screenshot 2022-10-08 233437](https://user-images.githubusercontent.com/50217106/194721898-3127f68e-570f-4a6b-81be-a5d4c5f0737a.png)
-
+			Fig8
 
  
  Fig1. Precharging of read bit line
@@ -190,9 +191,9 @@ The logic operation starts after the Read word line is enabled. It is shown by t
  
  Fig6. 8TSRAM Cell2 wrritten with 
  
- Fig7. 
+ Fig7. Read Word Line
  
- Fig8.
+ Fig8. Read But Line precharge enable
 ## Steps to run Ngveri model
 1.   Open eSim
 2.   Run NgVeri-Makerchip
