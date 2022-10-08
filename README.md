@@ -136,6 +136,18 @@ U18  SEL plot_v1
 
 
 
+![Screenshot 2022-10-08 233516](https://user-images.githubusercontent.com/50217106/194721875-1ac6464a-beaf-4978-abed-3f01bd24a860.png)
+
+
+![Screenshot 2022-10-08 233530](https://user-images.githubusercontent.com/50217106/194721882-9bd196d7-add7-4e4a-8d00-374285aa63cf.png)
+
+
+![Screenshot 2022-10-08 233538](https://user-images.githubusercontent.com/50217106/194721884-002eddc2-fe0e-451c-8e4d-f9b7e8c997f4.png)
+
+
+![Screenshot 2022-10-08 233459](https://user-images.githubusercontent.com/50217106/194721889-672470c1-ff71-470e-b5cf-3da94f56a341.png)
+
+![Screenshot 2022-10-08 233437](https://user-images.githubusercontent.com/50217106/194721898-3127f68e-570f-4a6b-81be-a5d4c5f0737a.png)
 
 ## Steps to run Ngveri model
 1.   Open eSim
