@@ -142,8 +142,11 @@ U18  SEL plot_v1
 ![Screenshot 2022-10-08 212959](https://user-images.githubusercontent.com/50217106/194720163-5b158bfd-675d-4006-af46-697bf8060b00.png)
 
 2. Both SRAM cells are written with 0
+![Screenshot 2022-10-09 021100](https://user-images.githubusercontent.com/50217106/194727650-7b24ed84-5ad7-4ea2-b32f-64a379169fb8.png)
 
 3. When the cells are written with 0 and 1
+![Screenshot 2022-10-09 021831](https://user-images.githubusercontent.com/50217106/194727655-7ecf51fa-9000-435b-bc53-b6c6fdf2dc63.png)
+
 
 The logic operation starts after the Read word line is enabled. It is shown by the white line that runs vertically throught the plot. SInce input to MUX is both the Logic NOR and Logic OR, variation in select line results in different outputs(logic operations NOR and OR)
 
