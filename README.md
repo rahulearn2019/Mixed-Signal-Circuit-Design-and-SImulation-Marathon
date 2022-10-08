@@ -138,11 +138,17 @@ U18  SEL plot_v1
 
 
 ## Ngspice Plots
-
+1. Both SRAM cells written with 1
 ![Screenshot 2022-10-08 212959](https://user-images.githubusercontent.com/50217106/194720163-5b158bfd-675d-4006-af46-697bf8060b00.png)
+
+2. Both SRAM cells are written with 0
+
+3. When the cells are written with 0 and 1
+
 The logic operation starts after the Read word line is enabled. It is shown by the white line that runs vertically throught the plot. SInce input to MUX is both the Logic NOR and Logic OR, variation in select line results in different outputs(logic operations NOR and OR)
 
 
+The below plots are for the case where bith 8TSRAM cells are written with 1.
   ![Screenshot 2022-10-08 233425](https://user-images.githubusercontent.com/50217106/194721800-69e27837-f007-437a-b5d2-720b678f1fb9.png)
                            Fig1       
 
