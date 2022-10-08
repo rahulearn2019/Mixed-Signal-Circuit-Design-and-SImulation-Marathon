@@ -132,22 +132,23 @@ U18  SEL plot_v1
 
 
 ## Steps to run Ngveri model
+1   Open eSim
+2   Run NgVeri-Makerchip
+3   Add top level verilog file in Makerchip Tab, and confirm waveform
+4   Click on NgVeri tab, convert verilog to ngspice, model created successfully
+5  Make schematic on esim, integrate subcircuit of inverter created seperately. The 8TSRAM cells can also be present int he schematic in subcircuit form.
+6  Debug for errors, by ERC checks, ignore conflict errors and global label errors, generate netlist, convert kicad to ngspice
+7  Provide source informations, sky130 component library information, path to any subcircuits used
+8  Generate simulation
 
- 1   Open eSim
- 2   Run NgVeri-Makerchip
- 3   Add top level verilog file in Makerchip Tab
- 4  Click on NgVeri tab
- 5   Add dependency files
- 6   Click on Run Verilog to NgSpice Converter
- 7   Debug if any errors
- 8   Model created successfully
+
  
 ## Acknowledgements
 
-   1 FOSSEE, IIT Bombay
-   2 Steve Hoover, Founder, Redwood EDA
-   3 Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
-   4 Sumanto Kar, eSim Team, FOSSEE
+1. FOSSEE, IIT Bombay
+2. Steve Hoover, Founder, Redwood EDA
+3. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+4. Sumanto Kar, eSim Team, FOSSEE
    
 ## References
 [1] Amogh Agrawal, Akhilesh Jaisawal, Chankyu Lee and Kaushik Roy,
