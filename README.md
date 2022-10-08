@@ -5,6 +5,11 @@ Processing in memory (PIM) aims at improving computational speed by bringing the
 edge computing, IoT applications etc. we need to look for alternative techniques like – In/near memory computing. In this paper we will perform logical operations using 8TSRAM cells to overcome the von Neumann bottleneck.
 
 ## Reference Circuit Diagram
+![WhatsApp Image 2022-09-28 at 23 29 54](https://user-images.githubusercontent.com/50217106/194724678-3c4e42d0-8754-498e-bb03-97789fe0c4a1.jpeg)
+
+![WhatsApp Image 2022-09-28 at 21 59 56](https://user-images.githubusercontent.com/50217106/194724684-1cf04866-94d1-413f-a08f-7c6fc0bc19e0.jpeg)
+
+![WhatsApp Image 2022-09-28 at 21 28 35](https://user-images.githubusercontent.com/50217106/194724687-e951218d-5f55-4a83-912a-f4140e5f5634.jpeg)
 
 
 ## Circuit Diagram in Esim
