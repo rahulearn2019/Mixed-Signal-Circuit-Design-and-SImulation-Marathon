@@ -130,3 +130,36 @@ U18  SEL plot_v1
 ![Screenshot 2022-10-08 212959](https://user-images.githubusercontent.com/50217106/194720163-5b158bfd-675d-4006-af46-697bf8060b00.png)
 
 
+
+## Steps to run Ngveri model
+
+ 1   Open eSim
+ 2   Run NgVeri-Makerchip
+ 3   Add top level verilog file in Makerchip Tab
+ 4  Click on NgVeri tab
+ 5   Add dependency files
+ 6   Click on Run Verilog to NgSpice Converter
+ 7   Debug if any errors
+ 8   Model created successfully
+ 
+## Acknowledgements
+
+   1 FOSSEE, IIT Bombay
+   2 Steve Hoover, Founder, Redwood EDA
+   3 Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+   4 Sumanto Kar, eSim Team, FOSSEE
+   
+## References
+[1] Amogh Agrawal, Akhilesh Jaisawal, Chankyu Lee and Kaushik Roy,
+“X-SRAM: Enabling In-memory Boolean Computations in CMOS
+Static Random Access Memories”. Circuits and Systems I: Regular
+Papers, IEEE Transactions on PP(99), December 2017
+[2] Sparsh Mittal, Gaurav Verma, Brajesh Kaushik, Farooq A. Khanday,
+“A Survey of SRAM-based Processing-in-Memory Techniques and
+Applications”. Journal of Systems Architecture, Volume 119, October
+2021, 102276
+
+
+
+ 
+
