@@ -56,6 +56,67 @@ endmodule
 
 
 ## Netlists
+* /home/tiw.rahul45/eSim-Workspace/LOGICwithSRAM/LOGICwithSRAM.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: Sat 08 Oct 2022 09:16:51 PM IST
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+SC7  Net-_SC4-Pad2_ Q1 Net-_SC4-Pad3_ Net-_SC4-Pad3_ sky130_fd_pr__pfet_01v8		
+SC4  Q1 Net-_SC4-Pad2_ Net-_SC4-Pad3_ Net-_SC4-Pad3_ sky130_fd_pr__pfet_01v8		
+SC8  Net-_SC4-Pad2_ Q1 GND GND sky130_fd_pr__nfet_01v8		
+SC5  Q1 Net-_SC4-Pad2_ GND GND sky130_fd_pr__nfet_01v8		
+SC9  WBLB1 WWL Net-_SC4-Pad2_ GND sky130_fd_pr__nfet_01v8		
+SC2  Q1 WWL WBL1 GND sky130_fd_pr__nfet_01v8		
+v3  Net-_SC4-Pad3_ GND DC		
+v6  WBLB1 GND pulse		
+v1  WBL1 GND pulse		
+SC13  Q2 Net-_SC13-Pad2_ Net-_SC13-Pad3_ Net-_SC13-Pad3_ sky130_fd_pr__pfet_01v8		
+SC15  Net-_SC13-Pad2_ Q2 Net-_SC13-Pad3_ Net-_SC13-Pad3_ sky130_fd_pr__pfet_01v8		
+SC16  Net-_SC13-Pad2_ Q2 GND GND sky130_fd_pr__nfet_01v8		
+SC14  Q2 Net-_SC13-Pad2_ GND GND sky130_fd_pr__nfet_01v8		
+SC12  Q2 WWL WBL2 GND sky130_fd_pr__nfet_01v8		
+SC17  WBLB2 WWL Net-_SC13-Pad2_ GND sky130_fd_pr__nfet_01v8		
+v8  Net-_SC13-Pad3_ GND DC		
+v9  WBLB2 GND pulse		
+v7  WBL2 GND pulse		
+SC23  GND Q2 Net-_SC22-Pad1_ GND sky130_fd_pr__nfet_01v8		
+SC22  Net-_SC22-Pad1_ RWL NOR GND sky130_fd_pr__nfet_01v8		
+SC20  GND Q1 Net-_SC19-Pad1_ GND sky130_fd_pr__nfet_01v8		
+SC19  Net-_SC19-Pad1_ RWL NOR GND sky130_fd_pr__nfet_01v8		
+v10  RWL GND pulse		
+SC21  NOR GND sky130_fd_pr__cap_mim_m3_1		
+U2  Q1 plot_v1		
+U7  Q2 plot_v1		
+U4  NOR plot_v1		
+U1  WBL1 plot_v1		
+U6  WBL2 plot_v1		
+U8  WBLB2 plot_v1		
+U9  RWL plot_v1		
+scmode1  SKY130mode		
+U5  WBLB1 plot_v1		
+v12  RBLpre GND pulse		
+v2  WWL GND pulse		
+U3  WWL plot_v1		
+SC1  RBLpre RBLpreEn NOR Net-_SC1-Pad4_ sky130_fd_pr__pfet_01v8		
+v5  Net-_SC1-Pad4_ GND DC		
+v4  RBLpreEn GND pulse		
+U10  RBLpre plot_v1		
+U11  RBLpreEn plot_v1		
+X11  NOR Net-_U13-Pad1_ rahul_inv		
+X12  Net-_U13-Pad1_ Net-_U15-Pad1_ rahul_inv		
+U13  Net-_U13-Pad1_ Net-_U12-Pad1_ adc_bridge_1		
+U15  Net-_U15-Pad1_ Net-_U12-Pad2_ adc_bridge_1		
+U12  Net-_U12-Pad1_ Net-_U12-Pad2_ Net-_U12-Pad3_ Net-_U12-Pad4_ rahul_mux		
+U14  SEL Net-_U12-Pad3_ adc_bridge_1		
+v11  SEL GND pulse		
+U16  Net-_U12-Pad4_ LOGIC dac_bridge_1		
+U17  LOGIC plot_v1		
+U18  SEL plot_v1		
+
+.end
 
 
 
