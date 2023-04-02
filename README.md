@@ -202,7 +202,7 @@ The below plots are for the case where bith 8TSRAM cells are written with 1.
  
  Fig7. Read Word Line
  
- Fig8. Read But Line precharge enable(PMOS switch)
+ Fig8. Read Bit Line precharge enable(PMOS switch)
 ## Steps to run Ngveri model
 1.   Open eSim
 2.   Run NgVeri-Makerchip
